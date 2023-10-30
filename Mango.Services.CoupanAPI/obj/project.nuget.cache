@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4a6ASyMbntMzZpsBF+JA/c0iQf/1DqHEAks2g8bqmhpXbSrI2uktrRtRMagp6Pjde4tiWrBXGvp1i6X5UZJgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAGaonkar\\OneDrive - Burns & McDonnell\\Documents\\microservicetuto\\UdemyMicroservice\\Mango\\Mango.Services.CoupanAPI\\Mango.Services.CoupanAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\SAGaonkar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
