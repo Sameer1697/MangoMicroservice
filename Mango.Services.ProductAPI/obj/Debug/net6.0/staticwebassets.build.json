@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "E4e7nJSEznLv0OmnxvEFC22NEK/ZneO3BCQQlyB57vc=",
+  "Source": "Mango.Services.ProductAPI",
+  "BasePath": "_content/Mango.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mango.Services.ProductAPI\\wwwroot",
+      "Source": "Mango.Services.ProductAPI",
+      "ContentRoot": "C:\\Users\\SAGaonkar\\OneDrive - Burns & McDonnell\\Documents\\microservicetuto\\UdemyMicroservice\\Mango\\Mango.Services.ProductAPI\\wwwroot\\",
+      "BasePath": "_content/Mango.Services.ProductAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
